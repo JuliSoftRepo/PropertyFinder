@@ -1,0 +1,12 @@
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\PropertyFinderTestFramework\bin\Debug\PropertyFinderTestFramework.dll
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\PropertyFinderTestFramework\bin\Debug\PropertyFinderTestFramework.pdb
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\PropertyFinderTestFramework\bin\Debug\WebDriver.dll
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\PropertyFinderTestFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\PropertyFinderTestFramework\bin\Debug\WebDriver.xml
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\PropertyFinderTestFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\PropertyFinderTestFramework\obj\Debug\PropertyFinderTestFramework.dll
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\PropertyFinderTestFramework\obj\Debug\PropertyFinderTestFramework.pdb
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\Tests\bin\Debug\PropertyFinderTestFramework.dll
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\Tests\bin\Debug\PropertyFinderTestFramework.pdb
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\Tests\bin\Debug\TestConfig.json
+C:\Users\lhdst1.LINDENHOUSE\Documents\Visual Studio 2017\Projects\PropertyFinderTestFramework\PropertyFinderTestFramework\obj\Debug\PropertyFinderTestFramework.csprojResolveAssemblyReference.cache

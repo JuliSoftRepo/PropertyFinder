@@ -1,0 +1,19 @@
+﻿{
+  "driver": "chrome",
+  "headless":  "true",
+  "testruns": 
+  [
+    {
+      "scenario": "ScenarioA",
+      "url": "https://www.propertyfinder.qa"
+    },
+    {
+      "scenario": "ScenarioB",
+      "url": "https://www.propertyfinder.ae"
+    },
+    {
+      "scenario": "ScenarioC",
+      "url": "https://www.propertyfinder.ae"
+    }
+  ]
+}
